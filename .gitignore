@@ -9,8 +9,6 @@
 
 
 # Ignore entire directories containing datasets or models
-model_weights/
-images/
 chest_xray/
 uploads/
 .idea/
