@@ -1,0 +1,16 @@
+# Ignore model files
+*.h5
+*.hdf5
+
+# Ignore image files
+*.jpg
+*.jpeg
+*.png
+
+
+# Ignore entire directories containing datasets or models
+model_weights/
+images/
+chest_xray/
+uploads/
+.idea/

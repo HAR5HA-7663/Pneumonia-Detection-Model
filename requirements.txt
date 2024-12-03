@@ -1,0 +1,6 @@
+Flask
+Werkzeug
+numpy
+Pillow
+opencv-python
+tensorflow
