@@ -14,7 +14,7 @@ This project uses a Convolutional Neural Network (CNN) trained on chest X-ray im
 ## 📸 Dataset
 The dataset used for this project consists of labeled chest X-ray images categorized into pneumonia and normal cases.
 
-- You can find the dataset here: [Dataset Link](https://your-dataset-link.com) _(Replace this placeholder with the actual link)_.
+- You can find the dataset here: [Dataset Link](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
 ## ⚙️ How to Recreate This Project
 Follow these steps to get started with the pneumonia detection project.
@@ -23,7 +23,7 @@ Follow these steps to get started with the pneumonia detection project.
 First, clone the repository to your local machine:
 
 ```bash
-$ git clone https://github.com/yourusername/pneumonia-detection.git
+$ git clone https://github.com/HAR5HA-7663/Pneumonia-Detection-Model.git
 $ cd pneumonia-detection
 ```
 
@@ -42,10 +42,10 @@ $ pip install -r requirements.txt
 ```
 
 ### 3. Download the Dataset
-Download the dataset from [Dataset Link](https://your-dataset-link.com) and place it in the appropriate directory (e.g., `chest_xray/`).
+Download the dataset from [Dataset Link](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) and place it in the appropriate directory (e.g., `chest_xray/`).
 
 ### 4. Train the Model
-You can train the model by running the provided Jupyter Notebook in Google Colab. Access the Colab link here: [Colab Notebook](https://your-colab-link.com) _(Replace this placeholder with the actual link)_.
+You can train the model by running the provided Jupyter Notebook in Google Colab. Access the Colab link here: [Colab Notebook](https://colab.research.google.com/drive/1dG1QVjrV6VBmMFMqQMU8d1ykK6vzO8j8?usp=sharing).
 
 If you want to train it locally, use the Jupyter Notebook provided in the repository (`Pneumonia_Detection_Training.ipynb`).
 
@@ -61,10 +61,10 @@ Navigate to `http://127.0.0.1:5000/` in your web browser to interact with the ap
 ## 🖼️ Screenshots
 
 ### Main Interface:
-![Main Interface](https://your-image-link.com) _(Replace this placeholder with an actual image link)_
+![Main Interface](Screenshots\Screenshot 2024-12-02 230328.png) _(Replace this placeholder with an actual image link)_
 
-### Results:
-![Detection Result](https://your-image-link.com) _(Replace this placeholder with an actual image link)_
+<!-- ### Results:
+![Detection Result](https://your-image-link.com) _(Replace this placeholder with an actual image link)_ -->
 
 ## 🛠️ Technologies Used
 - **Python**: Programming language for building the backend.
@@ -84,10 +84,10 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 <!-- ## 📧 Contact
 Feel free to reach out if you have any questions or ideas:
-- **Email**: [your-email@example.com] _(Replace this placeholder)_
-- **GitHub**: [@yourusername](https://github.com/yourusername) _(Replace this placeholder)_ -->
+- **Email**: [harsha7663@gmail.com] _(Replace this placeholder)_
+- **GitHub**: [Harsha Vardhan Yellela](https://github.com/HAR5HA-7663) -->
 
 ## 🌟 Acknowledgments
 This project wouldn't be possible without the amazing open-source resources, tutorials, and support from the community.
 
-### Made with ❤️ by CRE Team 7 _(Replace this placeholder)_
+### Made with ❤️ by CRE Team 7 
