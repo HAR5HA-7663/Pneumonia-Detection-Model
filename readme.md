@@ -73,8 +73,8 @@ Navigate to `http://127.0.0.1:5000/` in your web browser to interact with the ap
 
 ## 🤖 Model Architecture
 The model leverages **VGG19** for feature extraction and transfer learning, followed by incremental unfreezing and full fine-tuning to achieve optimized performance on pneumonia detection.
-(https://github.com/HAR5HA-7663/Pneumonia-Detection-Model/blob/main/Screenshots/image.png)
-(https://github.com/HAR5HA-7663/Pneumonia-Detection-Model/blob/main/Screenshots/image-1.png)
+[](https://github.com/HAR5HA-7663/Pneumonia-Detection-Model/blob/main/Screenshots/image.png)
+[](https://github.com/HAR5HA-7663/Pneumonia-Detection-Model/blob/main/Screenshots/image-1.png)
 
 ## 🚀 Deployment
 Deploying this web app is straightforward. You can either deploy it on a cloud platform like **Heroku**, **AWS**, or run it on your local server (Just Like us).
