@@ -61,10 +61,8 @@ Navigate to `http://127.0.0.1:5000/` in your web browser to interact with the ap
 ## 🖼️ Screenshots
 
 ### Main Interface:
-![Main Interface](Screenshots\Screenshot 2024-12-02 230328.png) _(Replace this placeholder with an actual image link)_
+![Main Interface](Screenshots\Screenshot 2024-12-02 230328.png)
 
-<!-- ### Results:
-![Detection Result](https://your-image-link.com) _(Replace this placeholder with an actual image link)_ -->
 
 ## 🛠️ Technologies Used
 - **Python**: Programming language for building the backend.
