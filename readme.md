@@ -61,7 +61,7 @@ Navigate to `http://127.0.0.1:5000/` in your web browser to interact with the ap
 ## 🖼️ Screenshots
 
 ### Main Interface:
-![Main Interface](Screenshots\Screenshot 2024-12-02 230328.png)
+![Main Interface](https://github.com/HAR5HA-7663/Pneumonia-Detection-Model/blob/main/Screenshots/Screenshot%202024-12-02%20230328.png)
 
 
 ## 🛠️ Technologies Used
